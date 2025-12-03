@@ -1,5 +1,21 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: rgb(133, 132, 132);
+}
+
+.myCard{
+    margin: 0 auto;
+    max-width: 24rem;
+    height: 36rem;
+}
+
+.card-title {
+    font-size: 16rem;
+    line-height: inherit;
+    margin: 0;
+}
+
+.textRightAlign {
+    text-align: end;
 }
